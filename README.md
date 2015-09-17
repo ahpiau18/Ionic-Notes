@@ -2,7 +2,7 @@
 This is to record the issues that i faces during development
 
 
-Errors
+Errors<BR>
 01. when i type "ionic emulate ios", i got the error below :
     simctl was not found.
     Check that you have Xcode 6.x installed:
