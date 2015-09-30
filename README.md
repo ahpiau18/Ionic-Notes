@@ -16,7 +16,7 @@ Errors<BR>
     Solution : make sure the image src syntax is "./img/{imagename}" instead of "img/{imagename}"
 
 
-<b>02.</b> Currently, i'm working on a simple app. which generated from "Ionic Start MyApp Tabs" <BR>
+<b>03.</b> Currently, i'm working on a simple app. which generated from "Ionic Start MyApp Tabs" <BR>
 I have included admob plugin to this apps, and i want to make the admob only appear in 1 controller, <BR>
 e.g ChatDetail <BR>
 i have been working for fews day, get achieve what i want, <BR>
