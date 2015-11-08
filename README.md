@@ -23,11 +23,11 @@ i have been working for fews day, get achieve what i want, <BR>
 i tried on "override Nav-Back-Button" event, it works, but the code looks messy<BR>
 finally, i got a simple way to make it work, using "$ionicView.beforeLeave"
 
-<b>04.<b> update ionic project library
-1.Download latest ionic by using
-npm install -g ionic
-2. Goto the root of your project and run this command
-ionic lib update
+<b>04.<b> update ionic project library<BR>
+1.Download latest ionic by using<BR>
+npm install -g ionic<BR>
+2. Goto the root of your project and run this command<BR>
+ionic lib update<BR>
 
 
 
